@@ -2,7 +2,7 @@
 Current Features:
 - The higher level you are the more opacity you get.
 - You can only wear Netherite armor.
-- You can only eat raw meat and godlens apples.
+- You can only eat raw meat and golden apples.
 - From level 0 to 5 you have shorter reach.
 - From level 0 to 7 you have slowness.
 - From level 15 to 60 you have strength 1.
