@@ -1,5 +1,5 @@
 # Origins Demon
-- This origin is a  long-game kind of demon since the biggest of advantages are obtained by having a great amounts of levels and hard advancements.
+This origin is a  long-game kind of demon since the biggest of advantages are obtained by having a great amounts of levels and hard advancements.
 ## ADVANTAGES:
 
 - Permanent Elytra: [Sky's The Limit] - Level 40+
