@@ -1,4 +1,5 @@
 # Origins Demon
+- This origin is a  long-game kind of demon since the biggest of advantages are obtained by having a great amounts of levels and hard advancements.
 ## ADVANTAGES:
 
 - Permanent Elytra: [Sky's The Limit] - Level 40+
@@ -8,7 +9,7 @@
   - obtaining the custom advancement Wither Slayer will grant you your first ability where you can effect entites in a radius of 7 blocks with the wither effect.
 
 - Soul reaping (second ability): [Monsters Hunted] - Level 100+ 
-  - you gain this ability after taking down every enemy in the game. This power lets you collect souls and converting them into damage as long as you have 100 levels or above, where 10 souls equal to 10.   
+  - you gain this ability after taking down every enemy in the game. This power lets you collect souls and converting them into damage, where 10 souls equal to 10 damage. You can convert only when your main hand is empty and you have a level equal or greater to 100.
   - Souls can be collected by killing enemies depending on their HP, and it goes like this:
     - HP < 8: 0 Souls
     - 8 <= HP < 30: 1 Soul
